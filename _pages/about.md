@@ -12,8 +12,7 @@ redirect_from:
 
 I am now an undergraduate student at [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm) at [Wuhan University (WHU)](https://www.whu.edu.cn/), with a strong research interest in Artificial Intelligence Security & Privacy. In June 2022, I joined the AISec lab, where I had the privilege of being mentored by Prof. [Run Wang](https://wangrun.github.io/). 
 
-On my academic homepage, you can find information about my research endeavors, publications, and honours. Currently, I am dedicated to exploring innovative approaches to safeguarding AI systems and preserving user privacy(e.g.Ownership Verification of DNNs, Adversarial Attack, Backdoor Attack). Feel free to explore my academic journey and stay updated with my latest findings in the realm of AI security.
-
+On my academic homepage, you can find information about my research endeavors, publications, and honours. My current research interests includes adversarial machine learning, ownership verification of DNNs and the security of LLMs. I have spent wonderful times in collaborating with [Yan Cai](https://cyccyyycyc.github.io/), Weifeng Liu and Boheng Li.
 
 
 # 🔥 News
