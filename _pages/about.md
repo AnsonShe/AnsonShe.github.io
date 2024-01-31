@@ -37,7 +37,7 @@ $^\dagger$: equal contribution, $^*$: corresponding author
   Run Wang, Jixing Ren, Boheng Li, **Tianyi She**, Wenhui Zhang, Liming Fang, Jing Chen, Lina Wang  
   *ACM Multimedia (MM), 2023*
 
-- Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes  
+- [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes](https://arxiv.org/abs/2401.15668)  
 
   Weifeng Liu$^\dagger$, **Tianyi She**$^\dagger$, Jiawei Liu, Ziyou Liang, Dongyu Yao, Run Wang  
 
