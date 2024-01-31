@@ -39,7 +39,7 @@ $^\dagger$: equal contribution, $^*$: corresponding author
 
 - [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-syncing DeepFakes](https://arxiv.org/abs/2401.15668)  
 
-  Weifeng Liu$^\dagger$, **Tianyi She**$^\dagger$, Jiawei Liu, Ziyou Liang, Dongyu Yao, Run Wang  
+  Weifeng Liu$^\dagger$, **Tianyi She**$^\dagger$, Jiawei Liu, Ziyou Liang, Dongyu Yao, Run Wang$^{*}$  
 
 Other 1 papers regarding IP protection of DL have currently been submitted to CCF-A tier conferences.
 <!-- ## 🖨️ Preprints & In Submission -->
