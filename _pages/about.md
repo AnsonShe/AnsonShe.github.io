@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a graduate student at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), where I am fortunate to be advised by Prof. [Weiming Zhang](https://faculty.ustc.edu.cn/zhangweiming/en/index.htm) and Prof. [Kejiang Chen](https://faculty.ustc.edu.cn/chenkejiang/en/index.htm). My research centers on **AI Security & Multimedia Forensics**, with a current focus on **AI-generated content (AIGC) forensics**, and the **security of large models**.
+I am currently a graduate student at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), where I am fortunate to be advised by Prof. [Weiming Zhang](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=en) and Prof. [Kejiang Chen](https://faculty.ustc.edu.cn/chenkejiang/en/index.htm](http://home.ustc.edu.cn/~chenkj/). My research centers on **AI Security & Multimedia Forensics**, with a current focus on **AI-generated content (AIGC) forensics**, and the **security of large models**.
 
 Previously, I received my B.E. from the [School of Cyber Science and Engineering (SCSE)](http://cse.whu.edu.cn/index.htm) at [Wuhan University (WHU)](https://www.whu.edu.cn/). In June 2022, I joined the AISec Lab, where I was privileged to be mentored by Prof. [Run Wang](https://wangrun.github.io/).
 
